@@ -20,7 +20,7 @@ Bei der Realisierung der Services soll dabei eine Reihe Regeln gelten, z.B.:
 
 + Sprachanrufe können nur ausgelöst werden, wenn das Gerät `online` ist.
 + Sprachanrufe werden nur entgegengenommen werden, wenn das Gerät nicht stumm geschalten (Status `normal`) und `online` ist.
-+ Textnachrichten können generell nur an Geräte mit dem Betriebsystem `OS_A` verschickt werden, und nur dann, wenn sie online sind `online` ist.
++ Textnachrichten können generell nur an Geräte mit dem Betriebsystem `OS_A` verschickt werden, und nur dann, wenn sie `online` sind.
 + das Alarmklingeln wird nur auf Geräten mit dem Betriebssystem `OS_B` ausgeführt.
 + Lokalisierungen sind für nur für Smartphones möglich.
 
